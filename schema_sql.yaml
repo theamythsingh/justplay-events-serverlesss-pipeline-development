@@ -1,0 +1,99 @@
+student_data:
+  - name: school
+    type: VARCHAR(10)
+
+  - name: sex
+    type: VARCHAR(1)
+
+  - name: age
+    type: Integer
+
+  - name: address
+    type: VARCHAR(100)
+
+  - name: famsize
+    type: VARCHAR(10)
+
+  - name: pstatus
+    type: VARCHAR(10)
+
+  - name: medu
+    type: Integer
+
+  - name: fedu
+    type: Integer
+
+  - name: mjob
+    type: VARCHAR(50)
+
+  - name: fjob
+    type: VARCHAR(50)
+
+  - name: reason
+    type: VARCHAR(50)
+
+  - name: guardian
+    type: VARCHAR(50)
+
+  - name: traveltime
+    type: Integer
+
+  - name: studytime
+    type: Integer
+
+  - name: failures
+    type: Integer
+
+  - name: schoolsup
+    type: VARCHAR(10)
+    
+  - name: famsup
+    type: VARCHAR(10)
+
+  - name: paid
+    type: VARCHAR(10)
+
+  - name: activities
+    type: VARCHAR(10)
+
+  - name: nursery
+    type: VARCHAR(10)
+
+  - name: higher
+    type: VARCHAR(10)
+
+  - name: internet
+    type: VARCHAR(10)
+
+  - name: romantic
+    type: VARCHAR(10)
+
+  - name: famrel
+    type: Integer
+
+  - name: freetime
+    type: Integer
+
+  - name: goout
+    type: Integer
+
+  - name: dalc
+    type: Integer
+
+  - name: walc
+    type: Integer
+
+  - name: health
+    type: Integer
+
+  - name: absences
+    type: Integer
+
+  - name: g1
+    type: Integer
+
+  - name: g2
+    type: Integer
+
+  - name: g3
+    type: Integer
